@@ -1,3 +1,5 @@
 # LinkedIn Code Challenge
 
-This repository contains the code challenges on my journey to LinkedIn learning.
+Welcome to **LinkedIn Code Challenge**, a collection of coding exercises and solutions documented as part of my learning journey on LinkedIn Learning. This repository contains a variety of programming problems tackled using Python in Jupyter Notebooks. 
+
+---
